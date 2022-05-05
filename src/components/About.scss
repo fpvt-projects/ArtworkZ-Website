@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.aboutContainer {
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to right, #000216 , #003F5B);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
